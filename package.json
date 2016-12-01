@@ -16,6 +16,7 @@
     "baboon-image": "^2.0.0",
     "batch": "^0.5.3",
     "browserify": "^13.1.1",
+    "budo": "^9.2.2",
     "bunny": "^1.0.1",
     "canvas-fit": "^1.5.0",
     "canvas-orbit-camera": "^1.0.2",
